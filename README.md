@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-![Sudam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sudammunasinghe)
 
 ---
 
