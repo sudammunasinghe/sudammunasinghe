@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudam Munasinghe
 
-<!--
-**sudammunasinghe/sudammunasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer specializing in **.NET, Angular, and SQL**
+🚀 Passionate about building scalable, high-performance web applications
+🎯 Focused on clean architecture, security, and best practices
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* ⚙️ Backend: ASP.NET Core, Web API
+* 🎨 Frontend: Angular
+* 🗄️ Database: SQL Server
+* 🔧 Tools: Git, Visual Studio, VS Code, SQL Server Management Studio
+
+---
+
+## 🔥 What I Do
+
+✔ Build secure RESTful APIs
+✔ Develop modern, responsive web applications
+✔ Design optimized and scalable databases
+✔ Apply clean code & best practices
+
+---
+
+## 📌 Featured Projects
+
+🔹 Job Portal System (ASP.NET Core + Angular)
+🔹 Company Website (WordPress + SEO Optimized)
+🔹 Employee Management System (CRUD + EF Core)
+
+---
+
+## 📊 GitHub Stats
+
+![Sudam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: http://linkedin.com/in/sudam-munasinghe
+* 🌍 Portfolio: 
+* 📧 Email: sudammunasinghe@gmail.com
+
+---
+
+## 🚀 Current Focus
+
+* Improving system design skills
+* Building real-world scalable applications
+* Preparing for Software Engineer roles
+
+---
+
+⭐️ From Sudam Munasinghe
