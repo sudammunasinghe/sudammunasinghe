@@ -33,7 +33,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+![GitHub Streak](https://streak-stats.demolab.com?user=sudammunasinghe)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudammunasinghe&layout=compact)
 
 ---
