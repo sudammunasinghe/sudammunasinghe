@@ -40,6 +40,10 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/sudammunasinghe/sudammunasinghe/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: http://linkedin.com/in/sudam-munasinghe
