@@ -1,23 +1,41 @@
+<div align="center">
+
 # 👋 Hi, I'm Sudam Munasinghe
 
-💻 Full Stack Developer specializing in **.NET, Angular, and SQL**
-🚀 Passionate about building scalable, high-performance web applications
-🎯 Focused on clean architecture, security, and best practices
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;ASP.NET+Core+Developer;Angular+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
 
-## 🔥 What I Do
-
-✔ Build secure RESTful APIs
-✔ Develop modern, responsive web applications
-✔ Design optimized and scalable databases
-✔ Apply clean code & best practices
+</div>
 
 ---
 
-## 📌 Featured Projects
+<div align="center">
 
-🔹 Job Portal System (ASP.NET Core + Angular)
-🔹 Company Website (WordPress + SEO Optimized)
-🔹 Employee Management System (CRUD + EF Core)
+💻 Full Stack Developer specializing in **.NET, Angular, and SQL Server**
+
+🚀 Passionate about building scalable, secure, and high-performance web applications
+
+🎯 Focused on Clean Architecture, Security, and Best Practices
+
+</div>
+
+---
+
+# 🔥 What I Do
+
+✔ Build secure RESTful APIs  
+✔ Develop modern responsive web applications  
+✔ Design scalable and optimized databases  
+✔ Apply clean architecture & best practices  
+✔ Create user-friendly UI/UX designs  
+
+---
+
+# 🚀 Featured Projects
+
+🔹 **Job Portal System** — ASP.NET Core + Angular  
+🔹 **Employee Management System** — CRUD + EF Core  
+🔹 **Company Website** — WordPress + SEO Optimized  
+🔹 **Real-Time Chat Application** — SignalR + Angular  
 
 ---
 
@@ -25,59 +43,73 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;ASP.NET+Core+Developer;Angular+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
-
-</div>
-
----
-
 ## 🚀 Languages
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,c,cpp,html,css,js,ts,python&theme=dark&perline=8" />
 
-<img src="https://skillicons.dev/icons?i=cs,c,cpp,html,css,js,ts,python&perline=8" />
-
-</div>
-
----
+<br><br>
 
 ## ⚡ Frameworks & Libraries
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,angular,tailwind,bootstrap,spring&theme=dark&perline=5" />
 
-<img src="https://skillicons.dev/icons?i=dotnet,angular,tailwind,bootstrap,spring&perline=5" />
-
-</div>
-
----
+<br><br>
 
 ## 🗄️ Databases
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=2" />
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
+<br><br>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-</div>
-
----
+<br><br>
 
 ## 🛠️ Tools & Platforms
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,idea,postman,docker,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,idea,postman,docker,figma&theme=dark&perline=8" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6"/>
+<img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6"/>
 
 </div>
 
 ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudammunasinghe&theme=github_dark" />
+
+<br><br>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudammunasinghe&theme=github_dark" />
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudammunasinghe&theme=github_dark" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=sudammunasinghe&theme=dark" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudammunasinghe&theme=react-dark&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -85,37 +117,41 @@
 
 </div>
 
-## 📊 GitHub Stats
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudammunasinghe&theme=default)
-![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudammunasinghe&theme=default)
-![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudammunasinghe&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=sudammunasinghe)
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/sudammunasinghe/sudammunasinghe/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 ---
 
----
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudammunasinghe)
+# 🌐 Connect With Me
 
-## 🐍 Contribution Snake
+<div align="center">
 
-![Snake animation](https://github.com/sudammunasinghe/sudammunasinghe/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/sudam-munasinghe)
 
-## 🌐 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudammunasinghe@gmail.com)
 
-* 💼 LinkedIn: http://linkedin.com/in/sudam-munasinghe
-* 🌍 Portfolio: 
-* 📧 Email: sudammunasinghe@gmail.com
+</div>
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sudammunasinghe)
+# 🚀 Current Focus
 
-## 🚀 Current Focus
-
-* Improving system design skills
-* Building real-world scalable applications
-* Preparing for Software Engineer roles
+- Improving System Design skills  
+- Building scalable real-world applications  
+- Strengthening backend architecture skills  
+- Preparing for Software Engineer opportunities  
 
 ---
 
-⭐️ From Sudam Munasinghe
+<div align="center">
+
+### ⭐️ Thanks for visiting my profile!
+
+</div>
