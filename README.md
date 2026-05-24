@@ -6,12 +6,40 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-* ⚙️ Backend: ASP.NET Core, Web API
-* 🎨 Frontend: Angular
-* 🗄️ Database: SQL Server
-* 🔧 Tools: Git, Visual Studio, VS Code, SQL Server Management Studio
+## 🚀 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,c,cpp,html,css,js,ts,python" />
+</p>
+
+---
+
+## ⚡ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,tailwind,bootstrap,spring" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,idea,postman,docker,figma" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6"/>
+</p>
 
 ---
 
