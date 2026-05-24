@@ -5,6 +5,7 @@
 🎯 Focused on clean architecture, security, and best practices
 
 ---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudammunasinghe)
 
 # 💻 Tech Stack
 
@@ -79,6 +80,8 @@
 * 📧 Email: sudammunasinghe@gmail.com
 
 ---
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sudammunasinghe)
 
 ## 🚀 Current Focus
 
