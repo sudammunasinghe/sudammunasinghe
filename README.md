@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudammunasinghe&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sudammunasinghe)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudammunasinghe&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudammunasinghe&layout=compact&langs_count=10&count_private=true)
 
 ---
 
