@@ -33,9 +33,10 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudammunasinghe&show_icons=true)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudammunasinghe&theme=default)
+![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudammunasinghe&theme=default)
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudammunasinghe&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sudammunasinghe)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudammunasinghe&layout=compact&langs_count=10&count_private=true)
 
 ---
 
