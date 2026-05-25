@@ -51,7 +51,7 @@
 
 ## ⚡ Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=dotnet,angular,primeng,tailwind,bootstrap,spring&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=dotnet,angular,primeng,tailwind,bootstrap,spring&theme=dark&perline=6" />
 
 <br><br>
 
