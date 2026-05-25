@@ -51,19 +51,7 @@
 
 ## ⚡ Frameworks & Libraries
 
-<!-- <img src="https://skillicons.dev/icons?i=dotnet,angular,primeng,tailwind,bootstrap,spring&theme=dark&perline=6" /> -->
-<div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,tailwind,bootstrap,spring&theme=dark&perline=5" />
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/primefaces/primefaces-original.svg"
-    width="48"
-    height="48"
-    alt="PrimeNG"
-  />
-
-</div>
+<img src="https://skillicons.dev/icons?i=dotnet,angular,tailwind,bootstrap,spring&theme=dark&perline=5" /> 
 
 <br><br>
 
